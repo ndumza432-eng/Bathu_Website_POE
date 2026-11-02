@@ -1,0 +1,12 @@
+BATHU POE DOCUMENTATION
+Project goal: Create a functional and visually appealing website for Bathu.
+Target audience: Young adults, students, young professionals, sneaker enthusiasts and South African online shoppers.
+Pages: Home, About Us, Products, Enquiry and Contact.
+Technologies: HTML5, CSS3 and JavaScript.
+Requirements: responsive design, clear navigation, product presentation, product search/filtering, enquiry validation and multiple store locations.
+
+References:
+Bathu: https://www.bathu.co.za/
+MDN Web Docs: https://developer.mozilla.org/
+W3C: https://www.w3.org/WAI/
+Google Fonts: https://fonts.google.com/
